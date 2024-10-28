@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aliakhlaghiii
-- 👀 I’m interested in programming and art
-- 🌱 I’m currently learning data science 
+- 👀 I’m interested in programming, art and book.
+- 🌱 I’m currently learning data science.
 
 <!---
 aliakhlaghiii/aliakhlaghiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
