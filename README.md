@@ -19,6 +19,10 @@
   Signal processing pipeline for ECG-II and PLETH signals extracted from .vital files, focusing on data quality and robustness.  
   Missing data reconstruction (PCHIP interpolation), outlier correction, median filtering, and static/interactive visualization to prepare signals for downstream biomedical analysis.  
   https://github.com/aliakhlaghiii/Time-series.git
+- **Clinically Grounded Image Captioning for Colonoscopy**  
+  Multimodal vision–language modeling to convert colonoscopy images into structured clinical captions, bridging raw visual data and downstream reasoning about polyp characteristics.  
+  Combines CLIP-based representation learning with BLIP2, FLAN-T5, and MedGemma to emphasize interpretability, robustness, and clinical usability over black-box classification.  
+  
 ## Tools
 
 ## Contact
