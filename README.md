@@ -1,5 +1,7 @@
-<h1 align="center">I'm Ali</h1>
+<h1 align="center">Ali Akhlaghi</h1>
 <hr/>
+
+
 
 ## What I work?
 - Exploratory data analysis and statistical reasoning to understand structure, bias, and variability in real-world datasets
