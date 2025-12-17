@@ -22,7 +22,7 @@
 - **Clinically Grounded Image Captioning for Colonoscopy**  
   Multimodal vision–language modeling to convert colonoscopy images into structured clinical captions, bridging raw visual data and downstream reasoning about polyp characteristics.  
   Combines CLIP-based representation learning with BLIP2, FLAN-T5, and MedGemma to emphasize interpretability, robustness, and clinical usability over black-box classification.  
-  
+  https://github.com/aliakhlaghiii/colon_polyp_captioning-LLM.git
 ## Tools
 
 ## Contact
