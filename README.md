@@ -1,7 +1,9 @@
 <h1 align="center">Ali Akhlaghi</h1>
 <hr/>
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aliakhlaghiii/aliakhlaghiii/main/assets/data-wave.svg" />
+</p>
 
 ## What I work?
 - Exploratory data analysis and statistical reasoning to understand structure, bias, and variability in real-world datasets
