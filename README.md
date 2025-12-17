@@ -11,8 +11,11 @@
   Exploratory analysis of shared risk factors (hypertension, smoking status, BMI) across independent diabetes and stroke datasets.  
   Distributional and impact-focused comparisons, followed by a feature-based merge to examine potential associations without causal assumptions.  
   https://github.com/aliakhlaghiii/diabetes_stroke.git
+- **Exploratory Liver Disease Analysis on Clinical Biomarkers**  
+  Statistical analysis of the Indian Liver Patient dataset (583 samples) to compare biochemical markers between diseased and healthy individuals.  
+  Non-parametric testing, correlation and regression analyses, and logistic regression highlight statistically significant but weak-to-moderate predictive relationships, complemented by an    interactive Shiny dashboard.  
+  https://github.com/aliakhlaghiii/Liver_disease.git
   
-  https://github.com/aliakhlaghiii/Liver_disease.git  
 ## Tools
 
 ## Contact
