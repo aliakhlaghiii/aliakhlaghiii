@@ -1,0 +1,23 @@
+<svg width="800" height="160" viewBox="0 0 800 160"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <rect width="800" height="160" fill="#0d1117"/>
+
+  <polyline
+    fill="none"
+    stroke="#f97316"
+    stroke-width="2"
+    points="0,100 80,80 160,95 240,70 320,85 400,60 480,80 560,55 640,75 720,50">
+    
+    <animate
+      attributeName="points"
+      dur="4s"
+      repeatCount="indefinite"
+      values="
+        0,100 80,80 160,95 240,70 320,85 400,60 480,80 560,55 640,75 720,50;
+        0,90  80,70 160,85 240,60 320,75 400,50 480,70 560,45 640,65 720,40;
+        0,100 80,80 160,95 240,70 320,85 400,60 480,80 560,55 640,75 720,50
+      " />
+  </polyline>
+
+</svg>
