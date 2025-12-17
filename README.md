@@ -15,6 +15,9 @@
   Statistical analysis of the Indian Liver Patient dataset (583 samples) to compare biochemical markers between diseased and healthy individuals.  
   Non-parametric testing, correlation and regression analyses, and logistic regression highlight statistically significant but weak-to-moderate predictive relationships, complemented by an    interactive Shiny dashboard.  
   https://github.com/aliakhlaghiii/Liver_disease.git
+- **Preprocessing of Biomedical Time-Series Signals (ECG-II & PLETH)**  
+  Signal processing pipeline for ECG-II and PLETH signals extracted from .vital files, focusing on data quality and robustness.  
+  Missing data reconstruction (PCHIP interpolation), outlier correction, median filtering, and static/interactive visualization to prepare signals for downstream biomedical analysis.  
   
 ## Tools
 
