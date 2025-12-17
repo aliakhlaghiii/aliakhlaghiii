@@ -23,6 +23,14 @@
   Multimodal vision–language modeling to convert colonoscopy images into structured clinical captions, bridging raw visual data and downstream reasoning about polyp characteristics.  
   Combines CLIP-based representation learning with BLIP2, FLAN-T5, and MedGemma to emphasize interpretability, robustness, and clinical usability over black-box classification.  
   https://github.com/aliakhlaghiii/colon_polyp_captioning-LLM.git
-## Tools
+## Languages & Tools
+<p align="left">
+  <img src="https://devicon.dev/icons/python/python-original.svg" width="40"/>
+  <img src="https://devicon.dev/icons/pytorch/pytorch-original.svg" width="40"/>
+  <img src="https://devicon.dev/icons/r/r-original.svg" width="40"/>
+  <img src="https://devicon.dev/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
+  <img src="https://devicon.dev/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/bokeh.svg" width="40"/>
+</p>
 
 ## Contact
