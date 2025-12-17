@@ -1,7 +1,7 @@
-<h1 align="center">Ali Akhlaghi</h1>
+<h1 align="center">I'm Ali</h1>
 <hr/>
 
-<h2 align="center">📊 What I work on</h2>
+## What I work?
 - Exploratory data analysis and statistical reasoning to understand structure, bias, and variability in real-world datasets
 - Feature analysis, hypothesis testing, and model evaluation with a focus on interpretability rather than raw performance
 - Data preprocessing and validation pipelines for noisy, heterogeneous data (tabular, time-series, and multimodal)
