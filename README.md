@@ -64,4 +64,6 @@
 </p>
 
 
-## Contact
+## 🔗 Contact
+- **Email:** akhlaghiali97@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/akhlaghiali/
