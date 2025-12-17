@@ -47,11 +47,11 @@
   </a>
 
   <a href="https://seaborn.pydata.org/" target="_blank">
-    <img src="https://api.iconify.design/simple-icons:seaborn.svg?color=white" width="40"/>
+    <img src="https://api.iconify.design/simple-icons:seaborn.svg?color=%232ecc71" width="40" height="40"/>
   </a>
 
   <a href="https://bokeh.org/" target="_blank">
-    <img src="https://api.iconify.design/simple-icons:bokeh.svg?color=white" width="40"/>
+    <img src="https://api.iconify.design/simple-icons:bokeh.svg?color=%23f1c40f" width="40" height="40"/>
   </a>
 </p>
 
