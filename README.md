@@ -1,4 +1,5 @@
-## Hi, I'm Ali
+<h1 align="center">Ali Akhlaghi</h1>
+<hr/>
 
 ## What I work on
 ## What I work on
