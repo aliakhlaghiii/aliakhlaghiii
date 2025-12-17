@@ -11,6 +11,8 @@
   Exploratory analysis of shared risk factors (hypertension, smoking status, BMI) across independent diabetes and stroke datasets.  
   Distributional and impact-focused comparisons, followed by a feature-based merge to examine potential associations without causal assumptions.  
   https://github.com/aliakhlaghiii/diabetes_stroke.git
+  
+  https://github.com/aliakhlaghiii/Liver_disease.git  
 ## Tools
 
 ## Contact
