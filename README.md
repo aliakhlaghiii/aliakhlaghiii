@@ -26,29 +26,34 @@
 ## Languages & Tools
 
 <p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   </a>
 
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/>
+  <a href="https://www.r-project.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40"/>
   </a>
 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
   </a>
 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40"/>
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
   </a>
 
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
   </a>
 
-  <a href="https://bokeh.org/" target="_blank" rel="noreferrer">
-    <img src="https://api.iconify.design/simple-icons:bokeh.svg?color=white" width="40" height="40"/>
+  <a href="https://seaborn.pydata.org/" target="_blank">
+    <img src="https://api.iconify.design/simple-icons:seaborn.svg?color=white" width="40"/>
+  </a>
+
+  <a href="https://bokeh.org/" target="_blank">
+    <img src="https://api.iconify.design/simple-icons:bokeh.svg?color=white" width="40"/>
   </a>
 </p>
+
 
 ## Contact
