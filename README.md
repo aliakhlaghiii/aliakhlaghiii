@@ -9,6 +9,10 @@
 - Exploratory data analysis and statistical reasoning to understand structure, bias, and variability in real-world datasets
 - Feature analysis, hypothesis testing, and model evaluation with a focus on interpretability rather than raw performance
 - Data preprocessing and validation pipelines for noisy, heterogeneous data (tabular, time-series, and multimodal)
+- 
+## Active Projects
+- Integromics — ML contributor
+  https://github.com/Mahsa-Zf/integromics
 
 ## Selected Projects
 - **Gene Expression Analysis in Liver Cancer**  
