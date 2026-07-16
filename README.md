@@ -15,6 +15,11 @@
   https://github.com/Mahsa-Zf/integromics
 
 ## Selected Projects
+
+
+- **Pump sensors anomaly detection**
+  This project applies unsupervised anomaly detection to multivariate time-series data collected from industrial pump sensors. The   goal is to detect early warning signs of machine failure before a breakdown occurs, enabling predictive maintenance.
+  https://github.com/aliakhlaghiii/pump_sensors_anomaly_detection.git
 - **Gene Expression Analysis in Liver Cancer**  
   Differential expression analysis comparing healthy vs cancerous liver tissue across 357 samples.  
   Summary statistics and fold-change-based differentiation to identify potential tumor suppressor genes and oncogenes.  
