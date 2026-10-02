@@ -27,7 +27,7 @@ SQL analytics project using the Brazilian Olist e-commerce dataset to investigat
 - Compare seller performance to identify operational issues and improvement opportunities.
 - Translate SQL findings into business recommendations, supported by clearly defined metrics and visualizations.
 
-[View repository](https://github.com/aliakhlaghiii/E-commerc-performance-analytics-SQL)
+[View repository]((https://github.com/aliakhlaghiii/E-commerce-performance_analytics-SQL.git))
 
 ## Completed Projects
 
