@@ -66,40 +66,44 @@ Explored multimodal vision–language modeling to generate structured clinical c
 
 [View repository](https://github.com/aliakhlaghiii/colon_polyp_captioning-LLM)
 
-## Languages & Tools
+<h2>Languages &amp; Tools</h2>
 
-<p align="left">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/>
-  </a>
+<h3>Languages &amp; Databases</h3>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" alt="Python" height="28">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge" alt="R" height="28">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" alt="SQL" height="28">
+</p>
 
-  <a href="https://www.r-project.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40"/>
-  </a>
+<h3>Data Processing &amp; Visualization</h3>
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge" alt="Pandas" height="28">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge" alt="NumPy" height="28">
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge" alt="PySpark" height="28">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" height="28">
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn" height="28">
+  <img src="https://img.shields.io/badge/Bokeh-00897B?style=for-the-badge" alt="Bokeh" height="28">
+</p>
 
-  <a href="https://www.sqlite.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40"/>
-  </a>
+<h3>Machine Learning &amp; Deep Learning</h3>
+<p>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge" alt="scikit-learn" height="28">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge" alt="PyTorch" height="28">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge" alt="TensorFlow" height="28">
+</p>
 
-  <a href="https://pytorch.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40"/>
-  </a>
+<h3>LLM &amp; Generative AI</h3>
+<p>
+  <img src="https://img.shields.io/badge/Hugging%20Face%20Transformers-FFD21E?style=for-the-badge" alt="Hugging Face Transformers" height="28">
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge" alt="OpenAI API" height="28">
+  <img src="https://img.shields.io/badge/Ollama-222222?style=for-the-badge" alt="Ollama" height="28">
+</p>
 
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40"/>
-  </a>
-
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40"/>
-  </a>
-
-  <a href="https://seaborn.pydata.org/" target="_blank">
-    <img src="https://api.iconify.design/simple-icons:seaborn.svg?color=%232ecc71" alt="Seaborn" width="40" height="40"/>
-  </a>
-
-  <a href="https://bokeh.org/" target="_blank">
-    <img src="https://api.iconify.design/simple-icons:bokeh.svg?color=%23f1c40f" alt="Bokeh" width="40" height="40"/>
-  </a>
+<h3>MLOps &amp; Cloud</h3>
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge" alt="Docker" height="28">
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge" alt="MLflow" height="28">
+  <img src="https://img.shields.io/badge/Azure%20ML-0078D4?style=for-the-badge" alt="Azure ML" height="28">
 </p>
 
 ## 🔗 Contact
