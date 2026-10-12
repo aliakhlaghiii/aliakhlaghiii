@@ -20,71 +20,120 @@
 
 SQL analytics project using the Brazilian Olist e-commerce dataset to investigate sales performance, customer purchasing behavior, and delivery operations.
 
-**Project objectives:**
-- Build a relational database with documented table relationships and data quality checks.
-- Analyze monthly sales trends, average order value, and category-level performance.
-- Examine repeat purchases and customer cohorts to understand purchasing patterns over time.
-- Investigate delivery delays and their relationship with customer review scores.
-- Compare seller performance to identify operational issues and improvement opportunities.
-- Translate SQL findings into business recommendations, supported by clearly defined metrics and visualizations.
+**Project highlights:**
+- Built a relational database with documented table relationships and data quality checks.
+- Analyzed monthly sales trends, average order value, and category-level performance.
+- Examined repeat purchases and customer cohorts to understand purchasing patterns over time.
+- Investigated delivery delays and their relationship with customer review scores.
+- Compared seller performance to identify operational issues and improvement opportunities.
+- Translated SQL findings into business recommendations using clearly defined metrics and visualizations.
 
 [View repository](https://github.com/aliakhlaghiii/e-commerce-performance-analysis-SQL.git)
 
-### Scalable ML Workflow — Snakemake, Dask & MLOps
-
-MLOps-focused project for building a reproducible and scalable machine learning workflow with automated task orchestration and parallel data processing.
-
-**Project objectives:**
-- Build an end-to-end machine learning workflow with clearly separated preprocessing, training, and evaluation stages.
-- Automate pipeline dependencies and execution using Snakemake.
-- Use Dask for parallel and scalable data processing.
-- Structure the workflow into reusable components that can be rerun and extended efficiently.
-- Improve reproducibility through configuration-driven execution and controlled environments.
-- Apply MLOps and software engineering practices to make the workflow easier to maintain, debug, and scale.
-
-[View repository](https://github.com/aliakhlaghiii/scalable_ML_pipeline.git)
-
 ## Completed Projects
+
+### Scalable ML Pipeline — Snakemake, Dask & MLOps
+
+Developed scalable and reproducible machine learning workflows with a focus on workflow orchestration, parallel computing, and MLOps practices.
+
+**Project highlights:**
+- Built reproducible machine learning workflows with separated data-processing and modelling stages.
+- Used Snakemake to define and orchestrate dependencies between pipeline tasks.
+- Applied Dask for parallel and scalable data processing.
+- Explored MLOps practices for structuring and managing machine learning workflows.
+- Organized the project into dedicated Snakemake, Dask, and MLOps components.
+
+[View repository](https://github.com/aliakhlaghiii/scalable_ML_pipeline)
 
 ### Integromics
 
-Contributed to the project as a machine learning contributor.
+Contributed to a machine learning project focused on integrating and analysing biological data.
+
+**Project highlights:**
+- Contributed to the machine learning component of a collaborative data science project.
+- Worked with biological and omics-related datasets.
+- Supported data preparation and modelling within the project workflow.
+- Collaborated with other contributors through a shared GitHub repository.
 
 [View repository](https://github.com/Mahsa-Zf/integromics)
 
 ### Pump Sensor Anomaly Detection
 
-Applied unsupervised anomaly detection to multivariate time-series data from industrial pump sensors. Explored early warning signs of equipment failure to support predictive maintenance.
+Developed an unsupervised anomaly-detection workflow for multivariate industrial pump sensor data to investigate early warning signs of equipment failure.
+
+**Project highlights:**
+- Analyzed 220,320 time-series readings from 52 industrial pump sensors.
+- Cleaned missing and erroneous sensor measurements and engineered rolling statistical features.
+- Built 150 features using 60-minute rolling means and standard deviations.
+- Benchmarked five unsupervised anomaly-detection approaches, including Isolation Forest and PCA reconstruction error.
+- Evaluated models on a highly imbalanced dataset containing only seven breakdown events.
+- Explored anomaly detection as an early-warning approach for predictive maintenance.
 
 [View repository](https://github.com/aliakhlaghiii/pump_sensors_anomaly_detection)
 
 ### Gene Expression Analysis in Liver Cancer
 
-Compared gene expression in healthy and cancerous liver tissue across 357 samples. Used summary statistics and fold-change analysis to identify candidate tumor suppressor genes and oncogenes.
+Analyzed gene-expression differences between healthy and cancerous liver tissue to identify genes potentially associated with cancer.
+
+**Project highlights:**
+- Analyzed gene-expression data across 357 tissue samples.
+- Compared expression patterns between healthy and cancerous liver tissue.
+- Used summary statistics and fold-change analysis to quantify expression differences.
+- Identified candidate tumor suppressor genes and oncogenes based on expression patterns.
+- Visualized differences to support interpretation of the biological results.
 
 [View repository](https://github.com/aliakhlaghiii/Gene_expression)
 
 ### Diabetes and Stroke Risk Factor Analysis
 
-Explored shared risk factors, including hypertension, smoking status, and BMI, across independent diabetes and stroke datasets. Examined distributions and potential associations without making causal assumptions.
+Explored shared health-related risk factors across independent diabetes and stroke datasets.
+
+**Project highlights:**
+- Investigated variables including hypertension, smoking status, BMI, and other demographic and clinical factors.
+- Compared distributions and patterns across diabetes and stroke datasets.
+- Used exploratory data analysis to identify potential associations between risk factors and outcomes.
+- Visualized relationships between variables to make patterns easier to interpret.
+- Kept conclusions associative rather than making unsupported causal claims.
 
 [View repository](https://github.com/aliakhlaghiii/diabetes_stroke)
 
 ### Exploratory Liver Disease Analysis on Clinical Biomarkers
 
-Analyzed biochemical markers in the Indian Liver Patient dataset containing 583 samples. Applied non-parametric testing, correlation analysis, regression, and logistic regression to examine group differences and predictive relationships, complemented by an interactive Shiny dashboard.
+Investigated relationships between biochemical markers and liver disease using statistical analysis and predictive modelling.
+
+**Project highlights:**
+- Analyzed the Indian Liver Patient dataset containing 583 samples.
+- Explored distributions and differences in biochemical markers between patient groups.
+- Applied non-parametric statistical testing and correlation analysis.
+- Used regression and logistic regression to examine predictive relationships.
+- Developed an interactive Shiny dashboard for exploring the data and analytical results.
 
 [View repository](https://github.com/aliakhlaghiii/Liver_disease)
 
 ### Preprocessing of Biomedical Time-Series Signals — ECG-II & PLETH
 
-Developed a preprocessing pipeline for ECG-II and PLETH signals extracted from `.vital` files. Applied PCHIP interpolation, outlier correction, median filtering, and static and interactive visualization to prepare signals for downstream analysis.
+Developed a reproducible preprocessing workflow for biomedical ECG-II and PLETH signals extracted from `.vital` files.
+
+**Project highlights:**
+- Extracted and prepared ECG-II and PLETH time-series signals for downstream analysis.
+- Applied PCHIP interpolation to handle gaps in signal data.
+- Corrected outliers and applied median filtering to improve signal quality.
+- Created static and interactive visualizations for inspecting preprocessing results.
+- Structured preprocessing steps into a reusable workflow for subsequent modelling and analysis.
 
 [View repository](https://github.com/aliakhlaghiii/Time-series)
 
 ### Clinically Grounded Image Captioning for Colonoscopy
 
-Explored multimodal vision–language modeling to generate structured clinical captions from colonoscopy images. Combined CLIP-based representations with BLIP2, FLAN-T5, and MedGemma to support interpretation of polyp characteristics.
+Explored multimodal vision–language modelling for generating structured clinical descriptions from colonoscopy images.
+
+**Project highlights:**
+- Investigated automated generation of clinically relevant captions from colonoscopy images.
+- Combined visual representations with vision–language and language models.
+- Experimented with BLIP-2, FLAN-T5, MedGemma, and CLIP-based representations.
+- Fine-tuned a specialised captioning approach using LoRA.
+- Focused generated descriptions on clinically relevant polyp characteristics.
+- Explored the use of multimodal AI to support structured medical-image interpretation.
 
 [View repository](https://github.com/aliakhlaghiii/colon_polyp_captioning-LLM)
 
