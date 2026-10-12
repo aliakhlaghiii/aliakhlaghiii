@@ -12,6 +12,7 @@
 - Data preprocessing and validation pipelines for tabular, time-series, and multimodal data.
 - SQL-based business analytics to investigate sales performance, customer behavior, and operational efficiency.
 - Large language models and vision–language models for structured interpretation of complex data.
+- Reproducible and scalable machine learning workflows using MLOps practices, workflow orchestration, and parallel computing.
 
 ## Currently Working On
 
@@ -29,39 +30,60 @@ SQL analytics project using the Brazilian Olist e-commerce dataset to investigat
 
 [View repository](https://github.com/aliakhlaghiii/e-commerce-performance-analysis-SQL.git)
 
+### Scalable ML Workflow — Snakemake, Dask & MLOps
+
+MLOps-focused project for building a reproducible and scalable machine learning workflow with automated task orchestration and parallel data processing.
+
+**Project objectives:**
+- Build an end-to-end machine learning workflow with clearly separated preprocessing, training, and evaluation stages.
+- Automate pipeline dependencies and execution using Snakemake.
+- Use Dask for parallel and scalable data processing.
+- Structure the workflow into reusable components that can be rerun and extended efficiently.
+- Improve reproducibility through configuration-driven execution and controlled environments.
+- Apply MLOps and software engineering practices to make the workflow easier to maintain, debug, and scale.
+
+[View repository](https://github.com/aliakhlaghiii/scalable_ML_pipeline.git)
+
 ## Completed Projects
 
 ### Integromics
+
 Contributed to the project as a machine learning contributor.
 
 [View repository](https://github.com/Mahsa-Zf/integromics)
 
 ### Pump Sensor Anomaly Detection
+
 Applied unsupervised anomaly detection to multivariate time-series data from industrial pump sensors. Explored early warning signs of equipment failure to support predictive maintenance.
 
 [View repository](https://github.com/aliakhlaghiii/pump_sensors_anomaly_detection)
 
 ### Gene Expression Analysis in Liver Cancer
+
 Compared gene expression in healthy and cancerous liver tissue across 357 samples. Used summary statistics and fold-change analysis to identify candidate tumor suppressor genes and oncogenes.
 
 [View repository](https://github.com/aliakhlaghiii/Gene_expression)
 
 ### Diabetes and Stroke Risk Factor Analysis
+
 Explored shared risk factors, including hypertension, smoking status, and BMI, across independent diabetes and stroke datasets. Examined distributions and potential associations without making causal assumptions.
 
 [View repository](https://github.com/aliakhlaghiii/diabetes_stroke)
 
 ### Exploratory Liver Disease Analysis on Clinical Biomarkers
+
 Analyzed biochemical markers in the Indian Liver Patient dataset containing 583 samples. Applied non-parametric testing, correlation analysis, regression, and logistic regression to examine group differences and predictive relationships, complemented by an interactive Shiny dashboard.
 
 [View repository](https://github.com/aliakhlaghiii/Liver_disease)
 
 ### Preprocessing of Biomedical Time-Series Signals — ECG-II & PLETH
+
 Developed a preprocessing pipeline for ECG-II and PLETH signals extracted from `.vital` files. Applied PCHIP interpolation, outlier correction, median filtering, and static and interactive visualization to prepare signals for downstream analysis.
 
 [View repository](https://github.com/aliakhlaghiii/Time-series)
 
 ### Clinically Grounded Image Captioning for Colonoscopy
+
 Explored multimodal vision–language modeling to generate structured clinical captions from colonoscopy images. Combined CLIP-based representations with BLIP2, FLAN-T5, and MedGemma to support interpretation of polyp characteristics.
 
 [View repository](https://github.com/aliakhlaghiii/colon_polyp_captioning-LLM)
@@ -103,6 +125,8 @@ Explored multimodal vision–language modeling to generate structured clinical c
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge" alt="Docker" height="28">
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge" alt="MLflow" height="28">
+  <img src="https://img.shields.io/badge/Snakemake-039475?style=for-the-badge" alt="Snakemake" height="28">
+  <img src="https://img.shields.io/badge/Dask-FC6E6B?style=for-the-badge" alt="Dask" height="28">
   <img src="https://img.shields.io/badge/Azure%20ML-0078D4?style=for-the-badge" alt="Azure ML" height="28">
 </p>
 
