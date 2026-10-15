@@ -16,6 +16,10 @@
 
 ## Currently Working On
 
+
+
+## Completed Projects
+
 ### E-Commerce Performance Analytics — SQL
 
 SQL analytics project using the Brazilian Olist e-commerce dataset to investigate sales performance, customer purchasing behavior, and delivery operations.
@@ -29,8 +33,6 @@ SQL analytics project using the Brazilian Olist e-commerce dataset to investigat
 - Translated SQL findings into business recommendations using clearly defined metrics and visualizations.
 
 [View repository](https://github.com/aliakhlaghiii/e-commerce-performance-analysis-SQL.git)
-
-## Completed Projects
 
 ### Scalable ML Pipeline — Snakemake, Dask & MLOps
 
